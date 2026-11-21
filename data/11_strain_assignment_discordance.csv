@@ -1,0 +1,13 @@
+﻿accession,country,host,annotated_strain,nearest_by_whole_genome,nearest_by_capsid,nearest_by_Rep,cp_vs_rep_conflict,cp_vs_genome_conflict
+KC172678,Eritrea,chickpea,J,"I (KM229900, 96.5%)","I (KM229900, 95.8%)","H (KM229843, 98.3%)",True,False
+KF111683,Oman,pepper,,"F (MK641859, 96.9%)","F (KC172667, 99.3%)","G (KC172675, 96.5%)",True,False
+KM229789,Sudan,faba bean,E,"H (KM229813, 89.9%)","K (KM229903, 91.2%)","H (KM229839, 92.1%)",True,True
+KM229905,Sudan,chickpea,K,"K (KM229906, 95.7%)","H (KM229842, 96.7%)","K (KM229906, 98.0%)",True,True
+KM229910,Sudan,chickpea,N,"C (KM229774, 95.9%)","C (KM229772, 99.7%)","H (KM229848, 95.1%)",True,False
+KM229911,Sudan,chickpea,O,"C (KM229785, 94.7%)","K (KM229906, 99.1%)","C (KM229771, 98.7%)",True,True
+KM229912,Sudan,chickpea,P,"P (KM229913, 96.8%)","K (KC172679, 97.6%)","P (KM229913, 99.2%)",True,True
+KM229913,Sudan,chickpea,P,"P (KM229912, 96.8%)","K (KM229904, 99.2%)","P (KM229912, 99.2%)",True,True
+KT634301,Pakistan,tree cotton,,"C (KY676351, 97.6%)","C (KY676351, 98.6%)","L (HE956705, 99.1%)",True,False
+KY817246,Nigeria,papaya,S,"R (KY047532, 91.5%)","R (KY047532, 96.5%)","E (KM229789, 91.8%)",True,False
+MN178605,Kenya,tomato,T,"R (KY047532, 83.4%)","Q (KY047534, 79.1%)","R (KY047532, 90.2%)",True,True
+MN699955,Iran,chickpea,,"F (MK641859, 97.1%)","F (KC172667, 99.3%)","G (KC172675, 97.3%)",True,False

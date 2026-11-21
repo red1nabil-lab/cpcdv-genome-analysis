@@ -1,0 +1,5 @@
+﻿alignment,gap_convention,within_pairs,within_below94,between_pairs,between_above94,nonseparable,nonseparable_strains,nn_other_strain,n_labelled,cl_clusters,ari_vs_published,L_vs_R,reps_below78,rep_pairs,maxC_L
+MSA,pairwise deletion,6959,29,17351,156,6,C;F;H;I;K;L,9,221,20,0.9893,77.77,2,171,99.96
+MSA,gaps as differences,6959,41,17351,65,5,C;F;H;I;L,9,221,22,0.96,76.19,27,171,99.73
+pairwise,pairwise deletion,6959,28,17351,97,6,C;F;H;I;K;L,9,221,19,0.9903,77.69,2,171,99.73
+pairwise,gaps as differences,6959,42,17351,67,4,C;H;I;L,9,221,22,0.96,75.52,22,171,99.58

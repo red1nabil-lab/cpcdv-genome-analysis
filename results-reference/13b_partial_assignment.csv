@@ -1,0 +1,78 @@
+﻿accession,length,country,host,host_family,year,orientation_vs_reference,ref_start,ref_end,aligned_nt,fragment_covers,nearest_strain,identity_to_nearest,second_strain,identity_to_second,margin,assignment_confident
+ON246241,1146,Tunisia,silverleaf nightshade (weed),Solanaceae,2021,+,1925,3072,1147,C1:C2 / Rep + RepA (483 nt),A,98.17,G,93.38,4.79,yes
+OM735808,1139,Tunisia,pepper,Solanaceae,2019,+,1939,3079,1140,C1:C2 / Rep + RepA (469 nt),A,98.25,G,93.51,4.73,yes
+ON246242,1122,Tunisia,silverleaf nightshade (weed),Solanaceae,2020,+,1951,3074,1123,C1:C2 / Rep + RepA (457 nt),A,98.31,G,93.67,4.64,yes
+OM735809,1082,Tunisia,pepper,Solanaceae,2020,+,1948,3030,1083,C1:C2 / Rep + RepA (460 nt),A,98.25,G,93.62,4.62,yes
+MG132053,876,Tunisia,tomato,Solanaceae,2016,+,1993,2870,877,C1:C2 / Rep + RepA (415 nt),A,98.4,G,94.41,3.99,yes
+MH480383,618,India,chickpea,Fabaceae,2017,+,536,1154,618,V2 / capsid protein (618 nt),N,97.09,C,96.76,0.32,no
+MT395660,607,India,chickpea,Fabaceae,2021,+,536,1143,607,V2 / capsid protein (607 nt),N,97.03,C,96.71,0.33,no
+MT395661,607,India,chickpea,Fabaceae,2021,+,536,1143,607,V2 / capsid protein (607 nt),N,97.03,C,96.71,0.33,no
+MT613321,607,India,leafhopper (candidate vector),Cicadellidae (insect),2021,+,536,1143,607,V2 / capsid protein (607 nt),N,97.03,C,96.71,0.33,no
+MT349390,585,India,lentil,Fabaceae,2019,+,580,1165,585,V2 / capsid protein (580 nt),C,97.61,N,97.61,0.0,no
+MT349391,585,India,lentil,Fabaceae,2019,+,580,1165,585,V2 / capsid protein (580 nt),C,97.61,N,97.61,0.0,no
+MT349394,585,India,chickpea,Fabaceae,2019,+,580,1165,585,V2 / capsid protein (580 nt),C,97.61,N,97.61,0.0,no
+MT349395,585,India,chickpea,Fabaceae,2019,+,580,1165,585,V2 / capsid protein (580 nt),C,97.61,N,97.61,0.0,no
+MT395659,585,India,black mustard,Brassicaceae,2021,+,580,1165,585,V2 / capsid protein (580 nt),C,97.61,N,97.61,0.0,no
+MN643059,583,India,chickpea,Fabaceae,,+,566,1149,583,V2 / capsid protein (583 nt),C,95.2,N,94.68,0.51,no
+MT349389,580,India,chickpea,Fabaceae,2019,+,577,1156,579,V2 / capsid protein (579 nt),C,95.34,N,94.82,0.52,no
+MT349402,580,India,chickpea,Fabaceae,2019,+,580,1160,580,V2 / capsid protein (580 nt),D,98.62,C,95.52,3.1,yes
+MT349403,580,India,chickpea,Fabaceae,2019,+,580,1160,580,V2 / capsid protein (580 nt),D,98.62,C,95.52,3.1,yes
+MT395670,577,India,chickpea,Fabaceae,2019,+,580,1157,577,V2 / capsid protein (577 nt),D,98.61,C,95.49,3.12,yes
+MT395671,577,India,chickpea,Fabaceae,2019,+,580,1157,577,V2 / capsid protein (577 nt),D,98.61,C,95.49,3.12,yes
+MT349387,570,India,chickpea,Fabaceae,2020,+,586,1156,570,V2 / capsid protein (570 nt),N,97.54,C,97.36,0.18,no
+MT349388,570,India,chickpea,Fabaceae,2020,+,586,1156,570,V2 / capsid protein (570 nt),N,97.54,C,97.36,0.18,no
+MT395658,570,India,black mustard,Brassicaceae,2021,+,586,1156,570,V2 / capsid protein (570 nt),N,97.54,C,97.36,0.18,no
+MT613320,570,India,leafhopper vector,Cicadellidae (insect),2020,+,586,1156,570,V2 / capsid protein (570 nt),N,97.54,C,97.36,0.18,no
+MT349400,569,India,chickpea,Fabaceae,2020,+,583,1152,569,V2 / capsid protein (569 nt),C,94.2,N,93.85,0.35,no
+MT349401,569,India,chickpea,Fabaceae,2020,+,583,1152,569,V2 / capsid protein (569 nt),C,94.2,N,93.85,0.35,no
+MT395662,569,India,chickpea,Fabaceae,2019,+,588,1157,569,V2 / capsid protein (569 nt),N,97.72,C,97.54,0.18,no
+MT395663,569,India,chickpea,Fabaceae,2019,+,588,1157,569,V2 / capsid protein (569 nt),N,97.72,C,97.54,0.18,no
+MH480384,568,India,chickpea,Fabaceae,2018,+,589,1145,556,V2 / capsid protein (556 nt),D,97.66,N,96.42,1.25,yes
+MT349404,568,India,chickpea,Fabaceae,2019,+,557,1125,568,V2 / capsid protein (568 nt),C,96.83,N,96.65,0.18,no
+MT349405,568,India,chickpea,Fabaceae,2019,+,557,1125,568,V2 / capsid protein (568 nt),C,96.83,N,96.65,0.18,no
+MT349392,566,India,chickpea,Fabaceae,2020,+,580,1146,566,V2 / capsid protein (566 nt),C,97.53,N,97.53,0.0,no
+MT349393,566,India,chickpea,Fabaceae,2020,+,580,1146,566,V2 / capsid protein (566 nt),C,97.53,N,97.53,0.0,no
+MT349398,566,India,chickpea,Fabaceae,2019,+,585,1151,566,V2 / capsid protein (566 nt),D,96.11,C,93.64,2.47,yes
+MT349399,566,India,chickpea,Fabaceae,2019,+,585,1151,566,V2 / capsid protein (566 nt),D,96.11,C,93.64,2.47,yes
+MT349396,565,India,chickpea,Fabaceae,2019,+,580,1145,565,V2 / capsid protein (565 nt),D,98.58,C,95.4,3.19,yes
+MT349397,565,India,chickpea,Fabaceae,2019,+,580,1145,565,V2 / capsid protein (565 nt),D,98.58,C,95.4,3.19,yes
+MT395664,562,India,chickpea,Fabaceae,2021,+,590,1152,562,V2 / capsid protein (562 nt),C,94.48,N,94.13,0.36,no
+MT395665,562,India,chickpea,Fabaceae,2021,+,590,1152,562,V2 / capsid protein (562 nt),C,94.48,N,94.13,0.36,no
+MT395668,560,India,chickpea,Fabaceae,2019,+,580,1140,560,V2 / capsid protein (560 nt),C,97.5,N,97.5,0.0,no
+MH485353,559,India,chickpea,Fabaceae,2018,+,594,1153,559,V2 / capsid protein (559 nt),D,97.32,C,95.17,2.15,yes
+MH475951,556,India,chickpea,Fabaceae,2018,+,588,1144,556,V2 / capsid protein (556 nt),D,97.48,N,95.68,1.8,yes
+MH933964,554,India,chickpea,Fabaceae,2018,+,594,1149,555,V2 / capsid protein (555 nt),D,97.48,N,95.68,1.8,yes
+MT395666,552,India,chickpea,Fabaceae,2019,+,588,1140,552,V2 / capsid protein (552 nt),D,97.46,N,95.65,1.81,yes
+MT395667,552,India,chickpea,Fabaceae,2019,+,588,1140,552,V2 / capsid protein (552 nt),D,97.46,N,95.65,1.81,yes
+MH485354,551,India,chickpea,Fabaceae,2018,+,594,1145,551,V2 / capsid protein (551 nt),D,97.46,N,96.19,1.27,yes
+MT339209,548,India,chickpea,Fabaceae,2019,+,599,1147,548,V2 / capsid protein (548 nt),C,97.63,N,97.63,0.0,no
+MT339210,548,India,chickpea,Fabaceae,2019,+,599,1147,548,V2 / capsid protein (548 nt),C,97.63,N,97.63,0.0,no
+MT339211,548,India,chickpea,Fabaceae,2019,+,599,1147,548,V2 / capsid protein (548 nt),C,97.63,N,97.63,0.0,no
+MT339212,548,India,chickpea,Fabaceae,2019,+,599,1147,548,V2 / capsid protein (548 nt),C,97.63,N,97.63,0.0,no
+MT339206,547,India,chickpea,Fabaceae,2019,+,597,1144,547,V2 / capsid protein (547 nt),C,97.81,N,97.81,0.0,no
+MT339207,547,India,chickpea,Fabaceae,2019,+,597,1144,547,V2 / capsid protein (547 nt),C,97.81,N,97.81,0.0,no
+MT339208,547,India,black speargrass (weed),Poaceae,2019,+,597,1144,547,V2 / capsid protein (547 nt),C,97.81,N,97.81,0.0,no
+MT339213,542,India,chickpea,Fabaceae,2019,+,611,1153,542,V2 / capsid protein (542 nt),C,94.83,N,94.83,0.0,no
+MT339214,542,India,chickpea,Fabaceae,2019,+,611,1153,542,V2 / capsid protein (542 nt),C,94.83,N,94.83,0.0,no
+MT339215,542,India,black mustard,Brassicaceae,2019,+,599,1141,542,V2 / capsid protein (542 nt),C,94.83,N,94.65,0.18,no
+MT339216,542,India,black mustard,Brassicaceae,2019,+,599,1141,542,V2 / capsid protein (542 nt),C,94.83,N,94.65,0.18,no
+MT339217,542,India,chickpea,Fabaceae,2019,+,599,1141,542,V2 / capsid protein (542 nt),C,94.83,N,94.65,0.18,no
+MT339218,542,India,chickpea,Fabaceae,2019,+,599,1141,542,V2 / capsid protein (542 nt),C,94.83,N,94.65,0.18,no
+MT339219,542,India,chickpea,Fabaceae,2019,+,599,1141,542,V2 / capsid protein (542 nt),C,94.83,N,94.65,0.18,no
+MT339220,542,India,chickpea,Fabaceae,2019,+,599,1141,542,V2 / capsid protein (542 nt),C,94.83,N,94.65,0.18,no
+MT395669,542,India,Virginia jointvetch (weed),Fabaceae,2019,+,599,1141,542,V2 / capsid protein (542 nt),C,94.83,N,94.65,0.18,no
+OL405572,505,Morocco,chickpea,Fabaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,96.21,G,95.6,0.61,no
+OM387012,505,Morocco,watermelon,Cucurbitaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,96.81,G,96.0,0.81,no
+OL405566,504,Morocco,chickpea,Fabaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,97.21,G,96.4,0.81,no
+OL405567,504,Morocco,chickpea,Fabaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,97.01,G,96.2,0.81,no
+OL405568,504,Morocco,watermelon,Cucurbitaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,97.21,G,96.4,0.81,no
+OL405569,504,Morocco,watermelon,Cucurbitaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,97.21,G,96.4,0.81,no
+OL405573,504,Morocco,squash,Cucurbitaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,97.21,G,96.4,0.81,no
+OL405571,502,Morocco,watermelon,Cucurbitaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,97.01,G,96.2,0.81,no
+MH500777,501,Morocco,watermelon,Cucurbitaceae,,+,464,965,501,V2 / capsid protein (501 nt),A,96.61,G,96.2,0.41,no
+MH500778,501,Morocco,watermelon,Cucurbitaceae,,+,464,965,501,V2 / capsid protein (501 nt),A,96.61,G,96.2,0.41,no
+MH500779,501,Morocco,watermelon,Cucurbitaceae,,+,464,965,501,V2 / capsid protein (501 nt),A,97.01,G,96.2,0.81,no
+OK641611,501,Morocco,chickpea,Fabaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,97.01,G,96.2,0.81,no
+OL405570,501,Morocco,watermelon,Cucurbitaceae,2019,-,464,965,501,V2 / capsid protein (501 nt),A,96.81,G,96.21,0.6,no
+MG132054,388,Tunisia,tomato,Solanaceae,2016,+,2404,2793,389,intergenic / unassigned,A,98.97,G,93.06,5.91,yes
+MK893991,316,India,chickpea,Fabaceae,2019,-,566,882,316,V2 / capsid protein (316 nt),C,96.52,N,95.89,0.63,no

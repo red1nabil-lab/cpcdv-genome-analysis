@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: CpCDV genome analysis
+message: Please cite this repository if you use the code or data.
+type: software
+authors:
+  - family-names: Radouane
+    given-names: Nabil
+    affiliation: African Genome Center, University Mohammed VI Polytechnic (UM6P)
+repository-code: "https://github.com/red1nabil-lab/cpcdv-genome-analysis"
+abstract: >-
+  Whole-genome reassessment of strain designations in chickpea chlorotic dwarf virus
+  (Mastrevirus cicerparvi), covering origin normalisation of circular genomes, pairwise
+  identity under the genus demarcation procedure, nucleotide diversity, maximum-likelihood
+  phylogeny and recombination analysis.
+license: MIT

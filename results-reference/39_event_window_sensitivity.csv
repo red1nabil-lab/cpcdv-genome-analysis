@@ -1,0 +1,4 @@
+﻿window_nt,n_events,hot_events,hot_width,ref_events,ref_width,enrichment,events_LIR (5'),events_V1 / MP,events_spacer,events_V2 / CP,events_SIR,events_Rep exon 1,events_intron,events_Rep exon 2,events_LIR (3')
+25,43,21,595,5,1071,7.56,6,1,0,4,7,14,0,5,6
+50,42,22,595,3,1071,13.2,6,1,0,2,8,14,0,5,6
+100,41,19,595,5,1071,6.84,6,1,0,4,5,14,0,5,6

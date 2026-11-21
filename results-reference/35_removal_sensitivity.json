@@ -1,0 +1,16 @@
+{
+ "observed_all": 28,
+ "observed_clean": 0,
+ "n_removed": 113,
+ "n_labelled": 221,
+ "pairs_both_recombinant": 17,
+ "pairs_one_recombinant": 11,
+ "pairs_neither": 0,
+ "null1_mean": 6.5961,
+ "null1_zero_frac": 0.5155,
+ "null1_p": 0.5155484451554845,
+ "null2_mean": 3.827,
+ "null2_zero_frac": 0.6173,
+ "null2_p": 0.6173382661733826,
+ "n_perm": 10000
+}

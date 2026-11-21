@@ -1,0 +1,5 @@
+{
+ "maxchi_sig_empirical_candidate_bonferroni": 249,
+ "maxchi_sig_gpd_triplet_bonferroni": 136,
+ "n_at_permutation_floor": 249
+}

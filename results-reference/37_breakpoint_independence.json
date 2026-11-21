@@ -1,0 +1,24 @@
+{
+ "n_genomes": 136,
+ "n_distinct_events": 42,
+ "per_genome_region": {
+  "LIR 3'": 9,
+  "Rep exon 1": 76,
+  "LIR": 7,
+  "Rep exon 2": 8,
+  "V2 / CP": 3,
+  "SIR": 32,
+  "V1 / MP": 1
+ },
+ "per_event_region": {
+  "LIR 3'": 6,
+  "Rep exon 1": 14,
+  "LIR": 6,
+  "Rep exon 2": 5,
+  "V2 / CP": 2,
+  "SIR": 8,
+  "V1 / MP": 1
+ },
+ "dominant_event_genomes": 38,
+ "dominant_event_clade_size": 77
+}

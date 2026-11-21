@@ -1,0 +1,15 @@
+﻿strain,n,clade_rooting_independent,bipartition_support,mrca_clade_size,n_intruders,intruders,straddles_root
+H,111,False,,113,2,KM229912;KM229913,False
+C,49,False,,56,7,HE610413;HE864164;HE956705;HG313782;KM229910;KM229911;KY676354,False
+A,29,True,1,29,0,,False
+F,26,True,1,26,0,,False
+D,16,True,1,16,0,,False
+K,11,True,1,267,0,,False
+L,4,False,,6,2,KT634301;KY676351,False
+E,3,True,1,3,0,,False
+M,2,True,1,2,0,,False
+R,2,True,1,2,0,,False
+Q,2,True,1,2,0,,False
+G,2,True,1,2,0,,False
+P,2,True,1,2,0,,False
+I,2,True,1,2,0,,False

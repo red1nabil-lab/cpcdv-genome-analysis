@@ -1,0 +1,61 @@
+{
+ "window_sensitivity": [
+  {
+   "window_nt": 25,
+   "n_events": 43,
+   "hot_events": 21,
+   "hot_width": 595,
+   "ref_events": 5,
+   "ref_width": 1071,
+   "enrichment": 7.56,
+   "events_LIR (5')": 6,
+   "events_V1 / MP": 1,
+   "events_spacer": 0,
+   "events_V2 / CP": 4,
+   "events_SIR": 7,
+   "events_Rep exon 1": 14,
+   "events_intron": 0,
+   "events_Rep exon 2": 5,
+   "events_LIR (3')": 6
+  },
+  {
+   "window_nt": 50,
+   "n_events": 42,
+   "hot_events": 22,
+   "hot_width": 595,
+   "ref_events": 3,
+   "ref_width": 1071,
+   "enrichment": 13.2,
+   "events_LIR (5')": 6,
+   "events_V1 / MP": 1,
+   "events_spacer": 0,
+   "events_V2 / CP": 2,
+   "events_SIR": 8,
+   "events_Rep exon 1": 14,
+   "events_intron": 0,
+   "events_Rep exon 2": 5,
+   "events_LIR (3')": 6
+  },
+  {
+   "window_nt": 100,
+   "n_events": 41,
+   "hot_events": 19,
+   "hot_width": 595,
+   "ref_events": 5,
+   "ref_width": 1071,
+   "enrichment": 6.84,
+   "events_LIR (5')": 6,
+   "events_V1 / MP": 1,
+   "events_spacer": 0,
+   "events_V2 / CP": 4,
+   "events_SIR": 5,
+   "events_Rep exon 1": 14,
+   "events_intron": 0,
+   "events_Rep exon 2": 5,
+   "events_LIR (3')": 6
+  }
+ ],
+ "gpd_quantile_log10_error": 0.3048223449249494,
+ "permuted_false_positives": 0,
+ "permuted_tested": 40
+}

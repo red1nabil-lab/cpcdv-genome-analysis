@@ -1,0 +1,43 @@
+﻿query,subject,subject_label,pid_pw,pid_gap,aln_len,comparison
+MN178605,NC_003493,bean yellow dwarf virus (BeYDV),82.01,78.31,2573,outgroup reference
+MN178605,NC_014740,chickpea chlorosis virus (CpCV),65.49,60.44,2616,outgroup reference
+MN178605,NC_023038,Tomato leaf curl Gandhinagar betasatellite (not a mastrevirus; comparison void),NA,NA,0,outgroup reference
+MN178605,NC_003822,tobacco yellow dwarf virus (TYDV),68.42,63.15,2467,outgroup reference
+MN178605,NC_001346,"maize streak virus (MSV, monocot outgroup)",56.25,56.25,16,outgroup reference
+MN178605,KY047533,"closest CpCDV genome (strain R, Burkina Faso)",83.34,79.68,2574,closest CpCDV genome
+DQ458791,NC_003493,bean yellow dwarf virus (BeYDV),97.11,96.84,2567,outgroup reference
+DQ458791,NC_014740,chickpea chlorosis virus (CpCV),65.21,62.95,2602,outgroup reference
+DQ458791,NC_023038,Tomato leaf curl Gandhinagar betasatellite (not a mastrevirus; comparison void),NA,NA,0,outgroup reference
+DQ458791,NC_003822,tobacco yellow dwarf virus (TYDV),66.86,64.85,2452,outgroup reference
+DQ458791,NC_001346,"maize streak virus (MSV, monocot outgroup)",0.0,0.0,0,outgroup reference
+DQ458791,AM849096,"closest CpCDV genome (strain -, Pakistan)",96.95,96.69,2567,closest CpCDV genome
+AM849096,NC_003493,bean yellow dwarf virus (BeYDV),99.84,99.84,2561,outgroup reference
+AM849096,NC_014740,chickpea chlorosis virus (CpCV),65.62,63.0,2624,outgroup reference
+AM849096,NC_023038,Tomato leaf curl Gandhinagar betasatellite (not a mastrevirus; comparison void),NA,NA,0,outgroup reference
+AM849096,NC_003822,tobacco yellow dwarf virus (TYDV),67.41,65.43,2450,outgroup reference
+AM849096,NC_001346,"maize streak virus (MSV, monocot outgroup)",52.38,52.38,21,outgroup reference
+AM849096,DQ458791,"closest CpCDV genome (strain -, South Africa)",96.95,96.69,2567,closest CpCDV genome
+HE610413,NC_003493,bean yellow dwarf virus (BeYDV),82.9,80.92,2600,outgroup reference
+HE610413,NC_014740,chickpea chlorosis virus (CpCV),64.22,62.35,2600,outgroup reference
+HE610413,NC_023038,Tomato leaf curl Gandhinagar betasatellite (not a mastrevirus; comparison void),NA,NA,0,outgroup reference
+HE610413,NC_003822,tobacco yellow dwarf virus (TYDV),66.54,64.5,2448,outgroup reference
+HE610413,NC_001346,"maize streak virus (MSV, monocot outgroup)",0.0,0.0,0,outgroup reference
+HE610413,NC_011058,"closest CpCDV genome (strain -, Pakistan)",94.12,93.21,2593,closest CpCDV genome
+KY817246,NC_003493,bean yellow dwarf virus (BeYDV),83.78,83.16,2571,outgroup reference
+KY817246,NC_014740,chickpea chlorosis virus (CpCV),64.84,62.75,2604,outgroup reference
+KY817246,NC_023038,Tomato leaf curl Gandhinagar betasatellite (not a mastrevirus; comparison void),NA,NA,0,outgroup reference
+KY817246,NC_003822,tobacco yellow dwarf virus (TYDV),67.1,65.1,2450,outgroup reference
+KY817246,NC_001346,"maize streak virus (MSV, monocot outgroup)",0.0,0.0,0,outgroup reference
+KY817246,KY047533,"closest CpCDV genome (strain R, Burkina Faso)",91.52,91.24,2568,closest CpCDV genome
+KM229911,NC_003493,bean yellow dwarf virus (BeYDV),86.74,85.74,2587,outgroup reference
+KM229911,NC_014740,chickpea chlorosis virus (CpCV),64.87,62.71,2609,outgroup reference
+KM229911,NC_023038,Tomato leaf curl Gandhinagar betasatellite (not a mastrevirus; comparison void),NA,NA,0,outgroup reference
+KM229911,NC_003822,tobacco yellow dwarf virus (TYDV),67.06,65.23,2453,outgroup reference
+KM229911,NC_001346,"maize streak virus (MSV, monocot outgroup)",0.0,0.0,0,outgroup reference
+KM229911,JX183064,"closest CpCDV genome (strain -, India)",94.69,94.55,2585,closest CpCDV genome
+KM229910,NC_003493,bean yellow dwarf virus (BeYDV),86.15,85.28,2574,outgroup reference
+KM229910,NC_014740,chickpea chlorosis virus (CpCV),65.41,63.19,2616,outgroup reference
+KM229910,NC_023038,Tomato leaf curl Gandhinagar betasatellite (not a mastrevirus; comparison void),NA,NA,0,outgroup reference
+KM229910,NC_003822,tobacco yellow dwarf virus (TYDV),67.48,65.26,2464,outgroup reference
+KM229910,NC_001346,"maize streak virus (MSV, monocot outgroup)",0.0,0.0,0,outgroup reference
+KM229910,KM229774,"closest CpCDV genome (strain C, Sudan)",95.86,95.01,2583,closest CpCDV genome

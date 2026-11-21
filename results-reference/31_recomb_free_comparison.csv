@@ -1,0 +1,3 @@
+﻿subset,n,within,within_bad,between,between_bad,nonsep,nonsep_strains,nn_bad,clusters,ari
+all 267 genomes,221,6959,28,17351,97,6,C;F;H;I;K;L,9,19,0.9903
+recombination-free subset (n=131),108,1512,0,4266,18,2,C;F,8,16,0.9874
